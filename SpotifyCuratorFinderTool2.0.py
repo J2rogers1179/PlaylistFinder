@@ -7,8 +7,8 @@ import time
 import hashlib
 
 # Hardcoded credentials (replace with your actual credentials)
-SPOTIFY_CLIENT_ID = "62fe0807cc7c41b3be4df4596a66ebaf"  # Replace with your actual ID
-SPOTIFY_CLIENT_SECRET = "1ccb948dea404678b4e19881b8f1493a"  # Replace with your actual secret
+SPOTIFY_CLIENT_ID = ""  # Replace with your actual ID
+SPOTIFY_CLIENT_SECRET = ""  # Replace with your actual secret
 
 class EmailCuratorFinder:
     def __init__(self):
